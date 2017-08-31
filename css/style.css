@@ -585,7 +585,7 @@ more media queries
 
 @media (max-width:768px) {
 	#intro{
-		background-image: url(../img/bg-mac.png);
+		background-image: url(../img/banner.png);
 		background-size:100%;
 	}
 	.box-team, .box-team img {
