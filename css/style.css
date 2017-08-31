@@ -615,4 +615,8 @@ more media queries
 	#intro{
 		background-image: none;
 	}
+	#intro .brand img {
+		width: 100%;
+		height: auto;
+	}
 }
